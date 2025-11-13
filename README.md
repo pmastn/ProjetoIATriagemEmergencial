@@ -15,3 +15,7 @@
 - `KTAS_expert`: Nível de triagem atribuído por especialista  
 
 O dataset foi utilizado para treinar e validar o modelo preditivo de triagem hospitalar (XGBoost balanceado, versão V4).
+
+## Código fonte atualizado
+
+Unificação das etapas de análise exploratória e modelo final (versão consolidada, sendo utilizada em meu TCC I)
